@@ -3,6 +3,7 @@
 	"author": "Ferdinand Abaduri",
 	"description": "A freecodecamp project",
 	"keywords": ["freecodecamp", "X-fherd", "Backend", "API"],
+	"license": "Whatever",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
